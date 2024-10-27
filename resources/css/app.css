@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.error {
+    color: rgb(136 19 55)
+}
+.gap-6 .error {
+    gap: 0.2rem !important;
+}
